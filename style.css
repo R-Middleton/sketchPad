@@ -1,0 +1,26 @@
+#buttonContainer {
+	margin: auto;
+	text-align: center;
+}
+.squareContainer {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	width:800px;
+	height:800px;
+
+}
+
+.square {
+	width: 25px;
+	height: 25px;
+	outline: 1px solid;
+	float: left;
+}
+
+.selectedSquare {
+	background-color: #000;
+}
+
+
+
